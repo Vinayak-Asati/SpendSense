@@ -1,3 +1,5 @@
+# SpendSense
+Keeps an Account for Income and Expense, User can add and delete transaction, maintains a history.
 # Live Demo
 https://spendsense.netlify.app/
 # Getting Started with Create React App
